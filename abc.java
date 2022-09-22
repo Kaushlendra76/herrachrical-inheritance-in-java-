@@ -40,6 +40,7 @@ class radius {
               cone obj1 =new cone();
               obj1.input();
               obj1.volume();
+               
       }
   }
 //Thakurlal
